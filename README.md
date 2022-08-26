@@ -20,12 +20,12 @@ After analysis of the data, I was able to see some key findings on the data whic
 ### Budget and gross profit
 It is noted that there is a slight positive relationship between budget and the gross profit. The budget you allocate to the movie determines the profit you'll get from the movie. The higher the budget, the higher the profit.
 
-![ alt text for screen readers](Budget and gross profit.png) 
+![ alt text for screen readers]("Budget and gross profit.png") 
 
 ### Genres with highest profit
 Some genres also appeared to have a higher profit than others hence it would be best to invest in them.
 
-![ alt text for screen readers](Highest profit making genres.png)
+![ alt text for screen readers]("Highest profit making genres.png")
 
 ## RECOMMENDATIONS
 * Microsoft should consider producing movies of genres ```'Adventure, Drama'```, ```'Comedy, Drama'``` or ```'Adventure, Comedy'```. A combination of these genres seem to have a very high rating and also have a high profit.
