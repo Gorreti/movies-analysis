@@ -2,8 +2,7 @@
 This analysis is aimed at helping come up with concrete recommendations of starting a movie studio for Microsoft Company. Microsoft wants to start a movie business hence the recommendations will help in the success of the movie business. 
 
 ## Datasets used
-In this analysis, I used 3 datasets namel;
-The data for this analysis comes from;
+In this analysis, I used 3 datasets namely;
 * ```im.db```: 
 This is a SQLite database that consists of data about movies from IMDB. The data consists of 8 tables. For this analysis I will only use 2 tables i.e. ```movie_basics``` and ```movie_ratings``` table.
 *  ```bom.movie_gross.csv```: 
